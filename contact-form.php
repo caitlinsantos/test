@@ -2,6 +2,8 @@
 
     $name = $_POST['name'];
     $email = $_POST['email'];
+    $subject = $_POST['subject'];
+    $brands = $_POST['brands'];
     $message = $_POST['message'];
 
     $email_from = 'YaziCole';
