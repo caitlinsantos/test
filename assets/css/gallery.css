@@ -213,13 +213,13 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #e53359;
+		color: #f88158;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #e53359 !important;
+			color: #f88158 !important;
 		}
 
 	strong, b {
@@ -400,7 +400,7 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			box-shadow: inset 0 0 0 2px #e53359;
+			box-shadow: inset 0 0 0 2px #f88158;
 			color: #e53359 !important;
 		}
 
@@ -458,7 +458,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #e53359;
+			background-color: #f88158;
 			box-shadow: none;
 		}
 
@@ -467,7 +467,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #47c5ab;
+				background-color: #c36241;
 				color: #ffffff !important;
 			}
 
@@ -476,7 +476,7 @@ input, select, textarea {
 				input[type="button"].primary:hover:active,
 				button.primary:hover:active,
 				.button.primary:hover:active {
-					background-color: #287e6d;
+					background-color: #c36241;
 				}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -977,7 +977,7 @@ input, select, textarea {
 			}
 
 			ul.icons li .icon {
-				color: #505051;
+				color: #f88158;
 			}
 
 				ul.icons li .icon:before {
