@@ -2236,19 +2236,6 @@ input, select, textarea {
 				right: 0;
 			}
 
-/* Brands */
-
-	#brands {
-		background: #f7f7f7 url("../../images/brands.png");
-		background-position: center center;
-		background-size: auto 100%;
-		background-repeat: no-repeat;
-		text-align: center;
-		position: relative;
-		padding: 3em 0;
-		margin: 0em 0 0 0;
-	}
-
 /* Intro */
 
 	#intro {
