@@ -1539,7 +1539,7 @@ input, select, textarea {
 						#header nav > ul > li a.icon:before {
 							color: #505051;
 							float: right;
-							margin-left: 0.75em;
+							margin-left: 0.5em;
 						}
 
 						#header nav > ul > li a:hover {
