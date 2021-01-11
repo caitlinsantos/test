@@ -1556,6 +1556,22 @@ input, select, textarea {
 				padding: 0 1em 0 1em;
 			}
 
+header.minor {
+			position: relative;
+			text-align: center;
+			border-top: solid 1px #ccc;
+			top: 1em;
+			margin: 0 0 0em 0;
+		}
+header.minor h2 {
+				background: #fff;
+				position: relative;
+				top: -0.65em;
+				display: inline;
+				margin: 0;
+				padding: 0 1em 0 1em;
+			}
+
 	footer {
 		margin: 2.25em 0 0 0;
 	}
@@ -2461,6 +2477,10 @@ input, select, textarea {
 				header.major h2 {
 					padding: 0 1em 0 1em;
 				}
+        
+            header.minor {
+				margin: 0.75em 0 1em 0;
+			}
 
 		/* Social */
 
